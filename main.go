@@ -1,4 +1,3 @@
-// Package main launches the calculator example directly
 package main
 
 import (
